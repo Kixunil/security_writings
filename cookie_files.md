@@ -1,8 +1,8 @@
 # Why you should use cookie files instead of passwords
 
-Note 0: Not to be confused with browser cookies!
-Note 1: This topic is much more technical than previous one, so unless you happen to be a bitcoiner running a full node, feel free to skip this one, the next one will be much less technical
-Note 2: This is written with Bitcoin as an example, but generally applies to other services. If you're a sysadmin, continue reading even if you don't use Bitcoin.
+* Note 0: Not to be confused with browser cookies!
+* Note 1: This topic is much more technical than previous one, so unless you happen to be a bitcoiner running a full node, feel free to skip this one, the next one will be much less technical
+* Note 2: This is written with Bitcoin as an example, but generally applies to other services. If you're a sysadmin, continue reading even if you don't use Bitcoin.
 
 ## Different services and their authentication methods
 
