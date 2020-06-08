@@ -117,6 +117,8 @@ As you can see, one can go really far in productivity with QubesOS despite (or t
 
 I hope my article will be helpful to others, who seek productivity and information security. Make no mistake, starting to use a completely different operating system is not easy. Especially Qubes. It's a digital version of the Time Theorist challenge - no eye candy, a lot of work, a lot of unlearning old habits, and a lot of learning new ones. However, great things await those who can go through it! As this is a quite difficult topic, I'll try to pay extra attention to be helpful if you ask me questions about it on whichever platform is applicable.
 
+If liked this article and you happen to be a Bitcoiner you might be also interested in [an article about Qubes](https://github.com/MaxHillebrand/towardsliberty/blob/master/docs/bitcoin/Qubes.md) written by  Max Hillebrand.
+
 ### Special thanks
 
 I'd like to thank a lot these people, without whom I'd never achieved this:
