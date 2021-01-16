@@ -39,8 +39,10 @@ So I'm going to list all ways I can think of that this could happen:
 * **Any** device in the same network compromised (old vulnerable phone, computer, IoT stuff...)
 * Old/vulnerable network router compromised - vulnerable routers are common
 * Various NAT-traversal attacks, e.g. [one discovered recently by Samy Kamkar](https://samy.pl/slipstream/)
-  Yes, it means that if **any** device within your network accesses a malicious website, you can be attacked.
-  It could be your security-illiterate grandmother or a child.
+  ~~Yes, it means that if **any** device within your network accesses a malicious website, you can be attacked.
+  It could be your security-illiterate grandmother or a child.~~
+  Update: not entirely, the attacker would have to attack that device first and then continue attacking Umbrel.
+  While possible, it's harder.
 * Misconfigured network settings
 * Network shared with not-trusted people
 * Unprotected network
