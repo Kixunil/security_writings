@@ -3,7 +3,7 @@
 If you're a user of Umbrel - the Bitcoin full node tool,
 then there's a good chance you don't know how insecure it is.
 This is not a vulnerability disclosure as the authors are already aware of the problem.
-[They even put it on their GitHub.](https://github.com/getumbrel/umbrel/blob/master/SECURITY.md<Paste>)
+[They even put it on their GitHub.](https://github.com/getumbrel/umbrel/blob/master/SECURITY.md)
 
 It may seem honest but there are several problems with this:
 
