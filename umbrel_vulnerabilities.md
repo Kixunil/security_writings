@@ -28,7 +28,8 @@ In other words, the attacker might do these things:
 * Spy on your transactions
 * Throw you out of consensus
 * Mine shitcoins with your electricity
-* Store child porn on the disk of your node and report you
+* ~~Store child porn on the disk of your node and report you~~
+  Correction while possible, similar harm is possible even without Umbrel being present.
 * Send spam from your device
 * Participate in DDoS attacks using your device
 * I bet I could come up with more if I wanted
