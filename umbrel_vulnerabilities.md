@@ -1,5 +1,14 @@
 # Umbrel is very insecure and you probably don't know it
 
+## Update - default password no longer the issue
+
+The default password issue was fixed, however, please note that:
+
+* Umbrel developers acted this way in the past, remain careful when using Umbrel
+* Umbrel developers still didn't update their website - as of today it contains no warning about Umbrel not being production-ready
+
+## Previously published article
+
 If you're a user of Umbrel - the Bitcoin full node tool,
 then there's a good chance you don't know how insecure it is.
 This is not a vulnerability disclosure as the authors are already aware of the problem.
