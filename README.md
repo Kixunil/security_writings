@@ -8,6 +8,7 @@ Since I'm starting and I'm not sure what kind of subscription/notification mecha
 
 There are currently four articles I wrote (reverse order):
 
+* [Disclosure of security vulnerability in LNURLPoS and LNURLVend](lnurlpos_disclosure.md) - cryptographic bug, title speak for itself.
 * [Umbrel is unsecure and you probably don't know it](umbrel_vulnerabilities.md) - important information for Umbrel users about the risks that are not entirely clearly communicated by the authors
 * [Somewhat small security risk when initializing LND](security_risk_lnd_init.md) - disclosure of a security issue.
 * [Why you should use cookie files instead of passwords](cookie_files.md) - not to be confused with browser cookies! Explains securing your `bitcoind` or a similar (even non-bitcoin) service.
